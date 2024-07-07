@@ -2,6 +2,9 @@
 <h1 align="center">Hi 👋, I'm Zeeshan Ramzan</h1>
 
 <h3 align="center">A Passionate Software Engineer</h3>
+<h3 align="center">👯 I’m looking to collaborate on open source projects</h3>
+<h3 align="center">I’m looking for help with advanced JavaScript topics</h3>
+<h3 align="center">Ask me about Web Development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zeeshanramzan06&label=Profile%20views&color=0e75b6&style=flat" alt="zeeshanramzan06" /> </p>
 
