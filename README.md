@@ -1,4 +1,4 @@
-![logo](https://github.com/ZeeshanRamzan06/ZeeshanRamzan/blob/main/Blockchain%20%26%20Web3.0.png)
+
 <h1 align="center">Hi 👋, I'm Zeeshan Ramzan</h1>
 
 <h3 align="center">A Passionate Software Engineer</h3>
