@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **zeeshanramzan3f@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1vzu2G5CT_HC-F4ERmAKggh1daFojE6QNrnTpKmvet_E/edit](https://docs.google.com/document/d/1vzu2G5CT_HC-F4ERmAKggh1daFojE6QNrnTpKmvet_E/edit)
+- 📄 Know about my experiences [https://docs.google.com/document/d/1vzu2G5CT_HC-F4ERmAKggh1daFojE6QNrnTpKmvet_E/edit](https://docs.google.com/document/d/1qlXHSA-DQErz--R5Y1i4_I50A6RORX7G/edit?usp=sharing&ouid=109034319910100632129&rtpof=true&sd=true)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
